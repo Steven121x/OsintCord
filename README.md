@@ -8,7 +8,7 @@
 ✅ [#1] XiterShop 🔹 FA/FOOD/CASHOUT/VPN + A LOT MORE 🍀 CHEAP
 
 💸TG: https://t.me/XiterShop
-💸TGVocuhes: https://t.me/XitersVouch
+💸TGVouches: https://t.me/XitersVouch
 🎉Patched: https://patched.to/User/pointx  (Here you find more resources)🎉
 
 ![image](https://user-images.githubusercontent.com/96802942/225296826-8782d355-b7ad-45fa-8842-b6a0ec9ba2e9.png)
