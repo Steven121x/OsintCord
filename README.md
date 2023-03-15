@@ -1,15 +1,6 @@
 💚OsintCord Tool💚
 🌀Discord Osint AIO By @PointX_x🌀
 
-Features:
-
-💎Home UI Design Good💎
-💎ID Lookup (Search Information About a ID)💎
-💎Token Login (Login automatic in a discord token)💎
-💎Settings (Put Your Webhook and options of donate me <3)💎
-💎Fast API💎
-💎DiscordRPC💎
-
 -------------------------------------------------------------------
 
 🛠 My Telegram Channel 🛠
