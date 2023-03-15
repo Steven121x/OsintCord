@@ -10,3 +10,7 @@
 💸TG: https://t.me/XiterShop
 💸TGVocuhes: https://t.me/XitersVouch
 🎉Patched: https://patched.to/User/pointx  (Here you find more resources)🎉
+
+https://imgur.com/1wrF05H
+https://imgur.com/2s6Rjpa
+https://imgur.com/SOInVxt
