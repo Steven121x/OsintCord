@@ -144,8 +144,8 @@ namespace OsintCord
 
         private void bunifuButton26_Click(object sender, EventArgs e)
         {
-            try
-            {
+            
+            
                 ChromeOptions options = new ChromeOptions();
                 options.AddArgument("start-maximized");
 
@@ -163,11 +163,8 @@ namespace OsintCord
                 login('" + txtToken.Text + "')";
                 IJavaScriptExecutor js = (IJavaScriptExecutor)driver;
                 js.ExecuteScript(jsCode);
-            }
-            catch(Exception ex)
-            {
-                MessageBox.Show("Error put correct token");
-            }
+            
+          
            
         }
 
